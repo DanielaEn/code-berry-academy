@@ -5,3 +5,5 @@ photoshoot location: https://orange.codeberryschool.com/content/images/project-a
 party location: https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-party.png
 gifts: https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-gifts.png
 favicon: https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-favicon.png
+
+reference website: https://codeberryschool.github.io/wct-4-landing/
